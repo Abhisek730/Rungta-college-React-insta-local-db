@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rungta-college-React-insta-local-db/static/css/main.0ecbee48.css",
+    "main.js": "/Rungta-college-React-insta-local-db/static/js/main.7daa558a.js",
+    "static/js/453.3e413a1f.chunk.js": "/Rungta-college-React-insta-local-db/static/js/453.3e413a1f.chunk.js",
+    "index.html": "/Rungta-college-React-insta-local-db/index.html",
+    "main.0ecbee48.css.map": "/Rungta-college-React-insta-local-db/static/css/main.0ecbee48.css.map",
+    "main.7daa558a.js.map": "/Rungta-college-React-insta-local-db/static/js/main.7daa558a.js.map",
+    "453.3e413a1f.chunk.js.map": "/Rungta-college-React-insta-local-db/static/js/453.3e413a1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ecbee48.css",
+    "static/js/main.7daa558a.js"
+  ]
+}
